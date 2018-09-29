@@ -42,7 +42,7 @@ h1, p{
 }
 
 .div-section{
-    width:53%;
+    width:495px;
     align-content: center;
     float:left;
     overflow:auto;
@@ -54,7 +54,7 @@ section{
     text-align: center;
 }
 .aside-div{
-    width:45%;
+    width:450px;
     align-content: center;
     text-align: center;
     float:right;
